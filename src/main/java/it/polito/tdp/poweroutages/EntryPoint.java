@@ -1,9 +1,6 @@
 package it.polito.tdp.poweroutages;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
-
-import it.polito.tdp.poweroutages.FXMLController;
 import it.polito.tdp.poweroutages.model.Model;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
